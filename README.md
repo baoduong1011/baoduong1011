@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm BAO DUONG</h1>
-<h3 align="center">A passionate frontend and backend developer from VietNam</h3>
+### Hi there 👋, Duong Tuan Bao
+#### Dev as life
+![Dev as life](https://www.facebook.com/profile.php?id=100009399229667)
 
-- 👨‍💻 All of my projects are available at [https://iron-man-bao-duong-dev.vercel.app/](https://iron-man-bao-duong-dev.vercel.app/)
+Welcome to my github!
+
+Skills: Front End - Back End - Devops 
+
+- 👨‍💻 My personal website: [https://iron-man-bao-duong-dev.vercel.app/](https://iron-man-bao-duong-dev.vercel.app/)
 
 
 
